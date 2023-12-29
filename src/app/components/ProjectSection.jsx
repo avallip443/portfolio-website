@@ -41,7 +41,7 @@ const projectData = [
     skills:
       "HTML/CSS • JavaScript • Python • Responses API • Hubspot • Typeform ",
     image: "/images/bend-your-footprint.jpg",
-    gitUrl: "https://github.com/cayliab03/bend-your-footprint",
+    gitUrl: "https://github.com/avallip443/ElleHack23-Project",
     previewUrl: "https://devpost.com/software/bend-your-footprint",
   },
   {
